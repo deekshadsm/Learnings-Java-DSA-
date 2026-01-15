@@ -16,7 +16,7 @@ public class Main {
             }
         }
 
-        System.out.println("Transpose Matrix:");
+        System.out.println("Transpose:");
 
         for (int i = 0; i < 2; i++) {
             for (int j = 0; j < 2; j++) {

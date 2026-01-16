@@ -10,13 +10,13 @@ public class Main {
 
         System.out.println("Enter 5 elements:");
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 20; i++) {
             arr[i] = sc.nextInt();
             sum += arr[i];
         }
 
         System.out.println("Array elements are:");
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 20; i++) {
             System.out.print(arr[i] + " ");
         }
 

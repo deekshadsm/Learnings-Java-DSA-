@@ -1,4 +1,4 @@
-class Student {
+class person {
     private int age;
 
     public void setAge(int a) {
